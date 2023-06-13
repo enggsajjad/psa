@@ -29,6 +29,7 @@ https://github.com/enggsajjad/psa/wiki
 * [German Language](https://github.com/enggsajjad/psa/wiki/German-Language)
 * [Events](https://github.com/enggsajjad/psa/wiki/Events)
 * [Driving License](https://github.com/enggsajjad/psa/wiki/Driving-License)
+* [Games/Sport](https://github.com/enggsajjad/psa/wiki/Sport)
 
 **Jobs**
 
@@ -46,5 +47,11 @@ https://github.com/enggsajjad/psa/wiki
 * [German Nationality](https://github.com/enggsajjad/psa/wiki/German-Nationality)
 * [Blue Card](https://github.com/enggsajjad/psa/wiki/Blue-Card)
 
+**Pakistan Embassy/NADRA/Passport**
+
+***
+
+* [Pakistan Embassy](https://github.com/enggsajjad/psa/wiki/Pakistan-Embassy)
+* [NADRA](https://github.com/enggsajjad/psa/wiki/NADRA)
 
 
