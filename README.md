@@ -28,7 +28,7 @@ https://github.com/enggsajjad/psa/wiki
 * [Mosques](Mosques)
 * [German Language](German-Language)
 * [Events](Events)
-* [Driving License](Driving-License)
+* [Driving License](wiki/Driving-License)
 
 **Jobs**
 
