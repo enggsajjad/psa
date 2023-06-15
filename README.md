@@ -56,4 +56,8 @@ https://github.com/enggsajjad/psa/wiki
 * [Pakistan Embassy](https://github.com/enggsajjad/psa/wiki/Pakistan-Embassy)
 * [NADRA](https://github.com/enggsajjad/psa/wiki/NADRA)
 
+***
 
+* [FAQs](https://github.com/enggsajjad/psa/wiki/FAQs)
+
+* [Contact](https://github.com/enggsajjad/psa/wiki/Contact)
