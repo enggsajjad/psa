@@ -33,6 +33,7 @@ https://github.com/enggsajjad/psa/wiki
 * [Driving License](https://github.com/enggsajjad/psa/wiki/Driving-License)
 * [Games/Sport](https://github.com/enggsajjad/psa/wiki/Sport)
 * [Translation](https://github.com/enggsajjad/psa/wiki/Translation)
+* [Umrah Guide](https://github.com/enggsajjad/psa/wiki/Umrah-Guide)
 
 **Jobs**
 
