@@ -2,6 +2,8 @@
 PSA Wiki Pages
 #  <span style="color:blue">Home Page</span>
 https://github.com/enggsajjad/psa/wiki
+https://www.linkedin.com/company/psa-karlsruhe/
+https://www.youtube.com/@PSA-KA
 
 # Important Links
 **Education**
