@@ -8,6 +8,9 @@ https://www.linkedin.com/company/psa-karlsruhe/
 https://www.youtube.com/@PSA-KA
 
 # Important Links
+
+[PSA-Representatives](https://github.com/enggsajjad/psa/wiki/PSA-Representatives)
+
 **Education**
 
 ***
