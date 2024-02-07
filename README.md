@@ -9,7 +9,9 @@ https://www.youtube.com/@PSA-KA
 
 # Important Links
 
-[PSA-Representatives](https://github.com/enggsajjad/psa/wiki/PSA-Representatives)
+* [Home](https://github.com/enggsajjad/psa/wiki/Home)
+* [PSA-Representatives](https://github.com/enggsajjad/psa/wiki/PSA-Representatives)
+* [PSA-Constitution](https://github.com/enggsajjad/psa/wiki/Constitution)
 
 **Education**
 
@@ -68,5 +70,5 @@ https://www.youtube.com/@PSA-KA
 ***
 
 * [FAQs](https://github.com/enggsajjad/psa/wiki/FAQs)
-
+* [Files](https://github.com/enggsajjad/psa/wiki/Files)
 * [Contact](https://github.com/enggsajjad/psa/wiki/Contact)
