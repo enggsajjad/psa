@@ -72,3 +72,5 @@ https://www.youtube.com/@PSA-KA
 * [FAQs](https://github.com/enggsajjad/psa/wiki/FAQs)
 * [Files](https://github.com/enggsajjad/psa/wiki/Files)
 * [Contact](https://github.com/enggsajjad/psa/wiki/Contact)
+* [Important Links](https://github.com/enggsajjad/psa/wiki/Important-Links)
+
